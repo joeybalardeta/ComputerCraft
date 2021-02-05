@@ -1,15 +1,15 @@
 # **ComputerCraft Turtle Scripts**
 
 ## Phone Scripts
-### main.lua\\
+### main.lua\
 
 ## Master Turtle Scripts
 ### startup.lua
-### main.lua\\
+### main.lua\
 
 ## Slave Turtle Scripts
 ### startup.lua
-### main.lua\\
+### main.lua\
 
 ## Door Turtle Scripts
-### reciever.lua\\
+### reciever.lua\
