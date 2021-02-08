@@ -17,5 +17,9 @@ Rips main script from disk drive on boot, automatically starts the main script.
 Goes into the mine and proceeds right until it finds an unmined z-lane, mines 100 blocks forward and returns to master turtle.
 
 ## Door Turtle Scripts
+## main.lua
+Creates a bridge with any blocks given for a specified length based on user input.
+
+## Door Turtle Scripts
 ### reciever.lua
 Recieves rednet messages from phones, sends redstone pulse on open vault message.
