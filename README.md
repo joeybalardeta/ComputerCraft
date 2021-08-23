@@ -2,7 +2,7 @@
 
 ## Phone Scripts
 ### main.lua
-Scripts for all phone functions, interfacing with rednet, etc.
+Scriptfor all phone functions, interfacing with rednet, etc.
 
 ## Master Turtle Scripts
 ### startup.lua
